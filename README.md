@@ -2,7 +2,7 @@
 
 install all these before running the program
 
-pip install opencv-python
-pip install matplotlib
-pip install cvlib
-pip install tensorflow
+pip install opencv-python \n
+pip install matplotlib \n
+pip install cvlib \n
+pip install tensorflow \n

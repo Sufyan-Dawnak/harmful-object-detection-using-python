@@ -1,8 +1,8 @@
 # harmful-object-detection-using-python
 
-install all these before running the program
+Install all these before running the program
 
-pip install opencv-python \n
-pip install matplotlib \n
-pip install cvlib \n
-pip install tensorflow \n
+pip install opencv-python<br>
+pip install matplotlib<br>
+pip install cvlib<br>
+pip install tensorflow<br>

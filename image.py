@@ -4,7 +4,7 @@ import cvlib as cv
 from cvlib.object_detection import draw_bbox
 from pymsgbox import *
 
-vid = cv2.VideoCapture('video2.mp4')
+vid = cv2.VideoCapture('video.mp4')
   
 while(True):
       
